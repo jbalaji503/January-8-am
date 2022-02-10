@@ -1,3 +1,5 @@
+Data type conversion (int to float,bool,string)
+
 "Int to float,boolen,string"
 a=20
 b=float(a)
