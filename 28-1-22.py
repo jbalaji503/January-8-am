@@ -1,16 +1,12 @@
 #area of rectangle l * b
 #perimeter of rectange 2l + 2b
-
 #length = 10
 #bre = collect it from user as floating number
-
 #calculate area and perimeter
 #print the output (integer)
 
 length = 10
-
 breadth = float(input("please enter breadth (float value): "))
-
 Area = length * breadth
 perimeter = 2 * (length + breadth)
 
